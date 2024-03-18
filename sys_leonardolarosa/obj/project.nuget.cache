@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GKc04muQrG+Jxm5T22+osNJqSmtm5QpAjbzeRtbAx6Ko/csoz7nhIPi8lNFBYfjfamxflGuSHS9Ct2SVwf1dTQ==",
+  "success": true,
+  "projectFilePath": "D:\\IZO\\1er año\\Logica y estructura de datos\\sys_leonardolarosa\\sys_leonardolarosa\\sys_leonardolarosa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leo-t\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.28\\microsoft.windows.sdk.net.ref.10.0.22621.28.nupkg.sha512"
+  ],
+  "logs": []
+}

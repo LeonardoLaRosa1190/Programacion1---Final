@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "sys_LeonardoLaRosa/1.0.0": {
+        "runtime": {
+          "sys_LeonardoLaRosa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sys_LeonardoLaRosa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
